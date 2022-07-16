@@ -1,0 +1,9 @@
+name: Rank-Plugin
+version: '${project.version}'
+main: paxtro.spawnplugin.SpawnPlugin
+api-version: 1.17
+authors: [ Paxtro ]
+website: wecodekc.org
+commands:
+    rank:
+
